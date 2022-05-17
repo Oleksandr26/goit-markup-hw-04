@@ -363,12 +363,12 @@ margin-right: 50px;
     color: var(--white-text-color);
 }
 .address-list{
-    display: block;
     padding-bottom: 60px;
 }
-.address-list:not(:last-child){
-    margin-bottom: 9px;
+.address-item:not(:last-child){
+margin-bottom: 9px;
 }
+
 .address {
     font-style: normal;
     text-decoration: none;
